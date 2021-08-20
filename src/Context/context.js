@@ -23,7 +23,7 @@ class RoomProvider extends Component {
         pets: false
     };
 
-    // getData
+    // getData from contentful
 
     getData = async () => {
         try{
